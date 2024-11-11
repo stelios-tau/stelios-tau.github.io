@@ -12,7 +12,7 @@ title                    : "Stelios Tsampas"
 title_separator          : "-"
 name                     : &name "Stelios Tsampas"
 description              : &description "Programming Languages, Category Theory, Information Security"
-url                      : https://stelios-tau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.steliostsampas.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stelios-tau/stelios-tau.github.io"
 
