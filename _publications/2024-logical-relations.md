@@ -12,4 +12,4 @@ paperurl: 'https://dl.acm.org/doi/10.1145/3661814.3662099'
 
 The "sibling" of the FoSSaCS 2024 paper. We switch our attention to logical relations and contextual equivalence. However, rather than simply tweaking a few definitions, we extend our theory to accommodate step-indexed logical relations for iso-recursive types.
 
-This is probably my favorite HO GSOS paper to date. It it is very nicely written, gracefully extends previous work, unifies important concepts such as applicative bisimilarity and logical equivalence under the same coalgebraic roof and it basically gives sound (w.r.t. contextual equivalence) logical relations "for free"... as long as one works within the confines of the higher-order abstract GSOS framework.
+This is probably my favorite HO GSOS paper to date. It is well-written, carefully builds on previous work, unifies important concepts such as applicative bisimilarity and logical equivalence under the same coalgebraic roof and it basically gives sound (w.r.t. contextual equivalence) logical relations "for free"... as long as one works within the confines of the higher-order abstract GSOS framework.
