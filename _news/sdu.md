@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining the **ACP Section** at **Syddansk Universitet** as a tenure-track Assistant Professor in early 2025.
+I am joining the **ACP Section** at the **University of Southern Denmark** (SDU) as a tenure-track Assistant Professor in early 2025.
