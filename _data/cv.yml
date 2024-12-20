@@ -4,6 +4,31 @@
     - name: Full Name
       value: Stelios Tsampas
 
+- title: Academic Work Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: Chair of Theoretical Computer Science, FAU
+      year: 2021.09 - 2025.01
+      # description:
+      #   - Developed Higher-order Abstract GSOS
+
+    - title: Doctoral Researcher
+      institution: DistriNet, KU Leuven
+      year: 2016.08 - 2021.08
+      # description:
+      #   -
+
+- title: Grants
+  type: time_table
+  contents:
+    - title: "Abstract Techniques for Programming Languages and Secure Compilation (ATLaS)"
+      year: 2024.01 - 2026.12
+      description:
+        - "<b>Funding Body</b>: Deutsche Forschungsgemeinschaft (DFG)"
+        - "<b>PIs</b>: Stelios Tsampas, Sergey Goncharov"
+        - "<b>Amount</b>: 675K EUR."
+
 - title: Education
   type: time_table
   contents:
@@ -16,26 +41,9 @@
     - title: MSc in Electrical and Computer Engineering
       institution: Aristotle University of Thessaloniki, Thessaloniki, Greece
       year: 2006.10 - 2014.04
-
-- title: Academic Work Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - "<b>Thesis</b>: A Computer Security Wargame"
+        - "<b>Advisor</b>: Andreas L. Symeonidis"
 
 - title: Service
   type: map
@@ -45,11 +53,10 @@
     - name: Reviewer
       value: POPL, FoSSaCS, CSL
 
-
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">Higher-order Abstract GSOS</a>
+    - title: <a href="https://www.steliostsampas.com/projects/atlas/">ATLaS</a>
       year: 2023-now
       description: Developing a categorical framework for the operational semantics of higher-order programming languages
 
