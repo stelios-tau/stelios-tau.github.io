@@ -53,12 +53,12 @@
     - name: Reviewer
       value: POPL, FoSSaCS, CSL
 
-- title: Projects
-  type: time_table
-  contents:
-    - title: <a href="https://www.steliostsampas.com/projects/atlas/">ATLaS</a>
-      year: 2023-now
-      description: Developing a categorical framework for the operational semantics of higher-order programming languages
+# - title: Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://www.steliostsampas.com/projects/atlas/">ATLaS</a>
+#       year: 2023-now
+#       description: Developing a categorical framework for the operational semantics of higher-order programming languages
 
 # - title: Honors and Awards
 #   type: time_table

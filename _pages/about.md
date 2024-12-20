@@ -29,4 +29,4 @@ I like working on the categorical foundations of computer science and applicatio
 - Formal Methods
 - Secure Compilation
 
-I am actively developing the **Higher-order Abstract GSOS** framework. Feel free to take a look at the project's [page](https://www.steliostsampas.com/projects/atlas/).
+I am actively developing the [Higher-order Abstract GSOS](https://www.steliostsampas.com/projects/higher-order/) (HO-GSOS) framework. The current running grant on HO-GSOS is [ATLaS](https://www.steliostsampas.com/projects/atlas/).

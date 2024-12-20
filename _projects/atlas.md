@@ -1,10 +1,11 @@
 ---
 layout: page
 title: ATLaS
-description: Developing Higher-order Abstract GSOS, a categorical Framework of Higher-order Programming Languages
+description: DFG-funded project on Higher-order Abstract GSOS
 img:
 importance: 1
 category: work
 related_publications: true
 ---
+
 
