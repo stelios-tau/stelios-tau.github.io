@@ -40,10 +40,18 @@ The aim of the project is to work on various important aspects of [Higher-order 
 
 ## Publications
 
-- *Abstract Operational Methods for Call-by-Push-Value* {% cite gtu25_arxiv %}
-- *Bialgebraic Reasoning on Higher-Order Program Equivalence* {% cite gmtu24lics %}
-- *Logical Predicates in Higher-Order Mathematical Operational Semantics* {% cite gmstu24 %}
+- *Abstract Operational Methods for Call-by-Push-Value*, **POPL'25** {% cite gtu25_arxiv %}
+- *Bialgebraic Reasoning on Higher-Order Program Equivalence*, **LICS'24** {% cite gmtu24lics %}
+- *Logical Predicates in Higher-Order Mathematical Operational Semantics*, **FoSSaCS'24** {% cite gmstu24 %}
 
 ## Talks
 
-- 
+- **Stelios Tsampas**: *Higher-order Mathematical Operational Semantics*
+<br>Aarhus University visit, 2024.09.09.
+  [Slides](/assets/pdf/aarhus-sep24-slides.pdf).
+- **Stelios Tsampas**: *Logical Relations (and more) in Higher-order Mathematical Operational Semantics* <br> Chocola Meeting, Lyon, 2024.05 (Invited talk).
+  [Slides](/assets/pdf/chocola-may24-slides.pdf).
+- **Stelios Tsampas**: *Logical Predicates in Higher-order Mathematical Operational Semantics* <br> FoSSaCS'24, Luxembourg City, 2024.04.
+  [Slides](/assets/pdf/fossacs-24-slides.pdf).
+- **Stelios Tsampas**: *Logical Predicates in Higher-order Mathematical Operational Semantics* <br> WG6 Leuven, Leuven, 2024.04.
+  [Abstract](https://europroofnet.github.io/wg6-leuven/programme#winterhalter) - [Slides](https://europroofnet.github.io/_pages/WG6/Leuven/slides/tsampas.pdf) - [Video](https://www.youtube.com/watch?v=6i-GPv0Eit4).
