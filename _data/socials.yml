@@ -5,7 +5,7 @@
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-# dblp_url: # your DBLP profile url
+dblp_url: https://dblp.uni-trier.de/pid/245/2735-1.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 #email: name.surname at fau.de # your email address
 # facebook_id: # your facebook id
@@ -20,8 +20,8 @@
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
-# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+linkedin_username: stelios-tsampas-96065b61 # your LinkedIn user name
+mastodon_username: Mathstodon.xyz/@stelios # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0001-8981-2328 # your ORCID ID
 # osf_id: # your OSF ID
