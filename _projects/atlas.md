@@ -57,9 +57,9 @@ The aim of the ATLaS project is to work on various important aspects of [Higher-
 <br>Aarhus University visit, September 2024.
   [Slides](/assets/pdf/aarhus-sep24-slides.pdf).
 - **Henning Urbat**: *Bialgebraic reasoning on higher-order program equivalence*
-<br>LICS'24, Tallinn, Estonia, July 2024.
+<br>LICS'24, Tallinn, Estonia, July 2024. [Slides](/assets/pdf/urbat-lics24.pdf).
 - **Henning Urbat**: *Operational techniques for higher-order coalgebras*
-<br>Dutch Categories and Types Seminar, Leiden, Netherlands, June 2024.
+<br>Dutch Categories and Types Seminar, Leiden, Netherlands, June 2024. [Slides](/assets/pdf/urbat-leiden24.pdf).
 - **Sergey Goncharov**: *Higher-Order Program Equivalence in the Abstract*
 <br> Research Seminar at Uni Regensburg, May 2024. [Abstract](https://www.uni-regensburg.de/informatics-data-science/theoretical-informatics/seminars/index.html) - [Slides](/assets/pdf/goncharov-regensburg-talk.pdf).
 - **Stelios Tsampas**: *Logical Relations (and more) in Higher-order Mathematical Operational Semantics* <br> Chocola Meeting, Lyon, May 2024. (Invited talk).
