@@ -48,17 +48,23 @@ The aim of the ATLaS project is to work on various important aspects of [Higher-
 
 ## Talks
 
+- **Henning Urbat**: *Abstract operational methods for call-by-push-value*
+<br>POPL'25, Denver, United States, January 2025.
 - **Sergey Goncharov**: *Introduction to Higher-Order Mathematical Operational Semantics*
-<br> Birmingham Theory Seminar, 2024.11.15.
+<br> Birmingham Theory Seminar, November 2024.
   [Abstract](https://researchseminars.org/talk/TheoryCSBham/31/) - [Slides](/assets/pdf/goncharov-ho-gsos-intro.pdf).
 - **Stelios Tsampas**: *Higher-order Mathematical Operational Semantics*
-<br>Aarhus University visit, 2024.09.09.
+<br>Aarhus University visit, September 2024.
   [Slides](/assets/pdf/aarhus-sep24-slides.pdf).
+- **Henning Urbat**: *Bialgebraic reasoning on higher-order program equivalence*
+<br>LICS'24, Tallinn, Estonia, July 2024.
+- **Henning Urbat**: *Operational techniques for higher-order coalgebras*
+<br>Dutch Categories and Types Seminar, Leiden, Netherlands, June 2024.
 - **Sergey Goncharov**: *Higher-Order Program Equivalence in the Abstract*
-<br> Research Seminar at Uni Regensburg, 2024.05.23. [Abstract](https://www.uni-regensburg.de/informatics-data-science/theoretical-informatics/seminars/index.html) - [Slides](/assets/pdf/goncharov-regensburg-talk.pdf).
-- **Stelios Tsampas**: *Logical Relations (and more) in Higher-order Mathematical Operational Semantics* <br> Chocola Meeting, Lyon, 2024.05 (Invited talk).
+<br> Research Seminar at Uni Regensburg, May 2024. [Abstract](https://www.uni-regensburg.de/informatics-data-science/theoretical-informatics/seminars/index.html) - [Slides](/assets/pdf/goncharov-regensburg-talk.pdf).
+- **Stelios Tsampas**: *Logical Relations (and more) in Higher-order Mathematical Operational Semantics* <br> Chocola Meeting, Lyon, May 2024. (Invited talk).
   [Slides](/assets/pdf/chocola-may24-slides.pdf).
-- **Stelios Tsampas**: *Logical Predicates in Higher-order Mathematical Operational Semantics* <br> FoSSaCS'24, Luxembourg City, 2024.04.
+- **Stelios Tsampas**: *Logical Predicates in Higher-order Mathematical Operational Semantics* <br> FoSSaCS'24, Luxembourg City, Luxembourg, April 2024.
   [Slides](/assets/pdf/fossacs-24-slides.pdf).
-- **Stelios Tsampas**: *Logical Predicates in Higher-order Mathematical Operational Semantics* <br> WG6 Leuven, Leuven, 2024.04.
+- **Stelios Tsampas**: *Logical Predicates in Higher-order Mathematical Operational Semantics* <br> WG6 Leuven, April 2024.
   [Abstract](https://europroofnet.github.io/wg6-leuven/programme#winterhalter) - [Slides](https://europroofnet.github.io/_pages/WG6/Leuven/slides/tsampas.pdf) - [Video](https://www.youtube.com/watch?v=6i-GPv0Eit4).
