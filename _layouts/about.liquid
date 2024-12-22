@@ -48,6 +48,12 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Talks -->
+      <h2>
+        💬 <a href="{{ '/news/' | relative_url }}" style="color: inherit">latest talks</a>
+      </h2>
+      {% include talks.liquid limit=true %}
+
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
