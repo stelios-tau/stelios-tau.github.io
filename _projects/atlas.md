@@ -48,9 +48,14 @@ The aim of the ATLaS project is to work on various important aspects of [Higher-
 
 ## Talks
 
+- **Sergey Goncharov**: *Introduction to Higher-Order Mathematical Operational Semantics*
+<br> Birmingham Theory Seminar, 2024.11.15.
+  [Abstract](https://researchseminars.org/talk/TheoryCSBham/31/) - [Slides](/assets/pdf/goncharov-ho-gsos-intro.pdf).
 - **Stelios Tsampas**: *Higher-order Mathematical Operational Semantics*
 <br>Aarhus University visit, 2024.09.09.
   [Slides](/assets/pdf/aarhus-sep24-slides.pdf).
+- **Sergey Goncharov**: *Higher-Order Program Equivalence in the Abstract*
+<br> Research Seminar at Uni Regensburg, 2024.05.23. [Abstract](https://www.uni-regensburg.de/informatics-data-science/theoretical-informatics/seminars/index.html) - [Slides](/assets/pdf/goncharov-regensburg-talk.pdf).
 - **Stelios Tsampas**: *Logical Relations (and more) in Higher-order Mathematical Operational Semantics* <br> Chocola Meeting, Lyon, 2024.05 (Invited talk).
   [Slides](/assets/pdf/chocola-may24-slides.pdf).
 - **Stelios Tsampas**: *Logical Predicates in Higher-order Mathematical Operational Semantics* <br> FoSSaCS'24, Luxembourg City, 2024.04.
