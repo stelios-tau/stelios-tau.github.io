@@ -21,7 +21,11 @@ layout: default
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">
-      {% bibliography --cited_in_order %}
+      {% if page.custom_bib %}
+        {% bibliography --cited_in_order --file {{page.custom_bib}} %}
+      {% else%}
+        {% bibliography --cited_in_order %}
+      {% endif %}
     </div>
   {% endif %}
 
