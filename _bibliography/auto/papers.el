@@ -1,10 +1,8 @@
-;; -*- lexical-binding: t; -*-
-
 (TeX-add-style-hook
  "papers"
  (lambda ()
    (LaTeX-add-bibitems
-    "gtu25_arxiv"
+    "gtu25"
     "gmtu24lics"
     "gmstu24"
     "UrbatTsampasEtAl23"
