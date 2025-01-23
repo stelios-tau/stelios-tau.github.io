@@ -11,8 +11,9 @@ profile:
   more_info: >
     <!-- <p>555 your office number</p> -->
     <!-- <p>123 your address street</p> -->
-    <p>first.last at fau.de</p>
-    <p>Soon in Odense, Denmark</p>
+    <p>first at imada.sdu.dk</p>
+    <p>Office Ø14-602a-1</p>
+    <p>Campusvej 55, Odense, Denmark</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
