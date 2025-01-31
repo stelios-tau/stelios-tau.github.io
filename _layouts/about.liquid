@@ -55,9 +55,10 @@ layout: default
       {% include talks.liquid limit=true %}
 
     <!-- Teaching -->
-    <!-- <h2>
+    <h2>
         🎓 <a href="{{ '/teaching/' | relative_url }}" style="color: inherit">teaching</a>
-      </h2> -->
+    </h2>
+    {% include teaching.liquid limit=true %}
 
 <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
