@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello! Nice to see you here :).
 
-I am a Postdoctoral Researcher in the [Theoretical Computer Science group](https://www8.cs.fau.de/) at Friedrich-Alexander-Universität Erlangen-Nürnberg. Starting from **February 2025**, I will be a tenure-track Assistant Professor at the University of Southern Denmark (SDU), in the [ACP Section](https://acp.sdu.dk/).
+I am a Assistant Professor (tenure-track) in the [ACP Section](https://acp.sdu.dk/) at the Department of Mathematics and Computer Science of Syddansk Universitet (SDU). Before that, I was a Postdoctoral Researcher in the awesome [Theoretical Computer Science group](https://www8.cs.fau.de/) at Friedrich-Alexander-Universität Erlangen-Nürnberg.
 
 I like working on the categorical foundations of computer science and applications thereof, currently focusing on programming languages and security, and more specifically on:
 
