@@ -2,6 +2,9 @@
  "papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "stateful25"
+    "crdt25"
+    "bigstep25"
     "gtu25"
     "gmtu24lics"
     "gmstu24"
