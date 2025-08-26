@@ -5,4 +5,4 @@ inline: false
 related_posts: false
 ---
 
-I will be teaching the course Concurrent Programming (DM584) in Spring 2025.
+I will be teaching the course Concurrent Programming (DM584) during Spring 2025.
