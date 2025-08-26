@@ -6784,3 +6784,43 @@ numpages = {27},
 keywords = {Call-by-push-value, Categorical semantics, Higher-order Abstract GSOS},
 abbr={POPL}
 }
+
+@article{stateful25,
+author = {Goncharov, Sergey and Milius, Stefan and Schr\"{o}der, Lutz and Tsampas, Stelios and Urbat, Henning},
+title = {Bialgebraic Reasoning on Stateful Languages},
+year = {2025},
+publisher = {Association for Computing Machinery},
+abstract = {Reasoning about program equivalence in imperative languages is notoriously challenging, as the presence of states (in the form of variable stores) fundamentally increases the observational power of program terms. The key desideratum for any notion of equivalence is compositionality, guaranteeing that subprograms can be safely replaced by equivalent subprograms regardless of the context. To facilitate compositionality proofs and avoid boilerplate work, one would hope to employ the abstract bialgebraic methods provided by Turi and Plotkin's powerful theory of mathematical operational semantics (a.k.a. abstract GSOS) or its recent extension by Goncharov et al. to higher-order languages. However, multiple attempts to apply abstract GSOS to stateful languages have thus failed. We propose a novel approach to the operational semantics of stateful languages based on the formal distinction between readers (terms that expect an initial input store before being executed), and writers (running terms that have already been provided with a store). In contrast to earlier work, this style of semantics is fully compatible with abstract GSOS, and we can thus leverage the existing theory to obtain coinductive reasoning techniques. We demonstrate that our approach generates non-trivial compositionality results for stateful languages with first-order and higher-order store and that it flexibly applies to program equivalences at different levels of granularity, such as trace, cost, and natural equivalence.},
+address = {New York, NY, USA},
+journal = {Proc. ACM Program. Lang.},
+number = {ICFP},
+abbr={ICFP},
+selected={true}
+}
+
+@article{crdt25,
+author = {Liittschwager, Nathan and Castello, Jonathan and Tsampas,Stelios and Kuper, Lindsey},
+title = {CRDT Emulation, Simulation, and Representation Independence},
+year = {2025},
+publisher = {Association for Computing Machinery},
+abstract = {Conflict-free replicated data types (CRDTs) are distributed data structures designed for fault tolerance and high availability. CRDTs can be taxonomized into state-based CRDTs, in which replicas apply updates locally and periodically broadcast their local state to other replicas, and operation-based (op-based) CRDTs, in which every state-updating operation is individually broadcast and applied at each replica. In the literature, state-based and op-based CRDTs are considered equivalent due to the existence of algorithms that transform one kind of CRDT into the other. In particular, verification techniques and results for one kind of CRDT are often said to be applicable to the other kind, thanks to this equivalence. However, what it means for state-based and op-based CRDTs to emulate each other has never been made fully precise. In particular, emulation is nontrivial since state-based and op-based CRDTs place different requirements on the behavior of the underlying network with regard to both the causal ordering of message delivery, and the granularity of the messages themselves.
+In this paper, we specify and formalize CRDT emulation in terms of simulation by modeling CRDTs and their interactions with the network as formal transition systems. We show that emulation can be understood as weak simulations between the transition systems of the original and emulating CRDT systems, thus closing a gap in the CRDT literature. We precisely characterize which properties of CRDT systems are preserved by our weak simulations, and therefore which properties can be said to be applicable to state-based CRDTs as long as they are applicable to op-based CRDTs and vice versa. Finally, we leverage our emulation results to obtain a general representation independence result for CRDTs: intuitively, clients of a CRDT cannot tell whether they are interacting with a state-based or op-based CRDT in particular.},
+address = {New York, NY, USA},
+journal = {Proc. ACM Program. Lang.},
+number = {ICFP},
+abbr={ICFP},
+selected={false}
+}
+
+@article{bigstep25,
+author = {Goncharov, Sergey and Partow, Pouya and Tsampas, Stelios},
+title = {Big Steps in Higher-Order Mathematical Operational Semantics},
+year = {2025},
+publisher = {Association for Computing Machinery},
+abstract = {Small-step and big-step operational semantics are two fundamental styles of structural operational semantics (SOS), extensively used in practice. The former one is more fine-grained and is usually regarded as primitive, as it only defines a one-step reduction relation between a given program and its direct descendant under an ambient evaluation strategy. The latter one implements, in a self-contained manner, such a strategy directly by relating a program to the net result of the evaluation process. The agreement between these two styles of semantics is one of the key pillars in operational reasoning on programs; however, such agreement is typically proven from scratch every time on a case-by-case basis. A general, abstract mathematical argument behind this agreement is up till now missing. We cope with this issue within the framework of higher-order mathematical operational semantics by providing an abstract categorical notion of big-step SOS, complementing the existing notion of abstract higher-order GSOS. Moreover, we introduce a general construction for deriving the former from the latter, and prove an abstract equivalence result between the two.},
+address = {New York, NY, USA},
+journal = {Proc. ACM Program. Lang.},
+number = {ICFP},
+abbr={ICFP},
+selected={false}
+}

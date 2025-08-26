@@ -473,6 +473,9 @@
     "DBLP:journals/corr/abs-1805-05400"
     "DBLP:conf/itp/RizkallahGZ18"
     "DBLP:journals/lmcs/HirschowitzHLM24"
-    "gtu25"))
+    "gtu25"
+    "stateful25"
+    "crdt25"
+    "bigstep25"))
  '(or :bibtex :latex))
 

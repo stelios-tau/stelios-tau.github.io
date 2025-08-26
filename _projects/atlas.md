@@ -42,6 +42,8 @@ The aim of the ATLaS project is to work on various important aspects of [Higher-
 
 ## Publications
 
+- *Bialgebraic Reasoning on Stateful Languages*, **ICFP'25** {% cite stateful25 %}
+- *Big Steps in Higher-Order Mathematical Operational Semantics*, **ICFP'25** {% cite bigstep25 %}
 - *Abstract Operational Methods for Call-by-Push-Value*, **POPL'25** {% cite gtu25 %}
 - *Bialgebraic Reasoning on Higher-Order Program Equivalence*, **LICS'24** {% cite gmtu24lics %}
 - *Logical Predicates in Higher-Order Mathematical Operational Semantics*, **FoSSaCS'24** {% cite gmstu24 %}
