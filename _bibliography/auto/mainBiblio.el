@@ -1,3 +1,5 @@
+;; -*- lexical-binding: t; -*-
+
 (TeX-add-style-hook
  "mainBiblio"
  (lambda ()
@@ -476,6 +478,7 @@
     "gtu25"
     "stateful25"
     "crdt25"
-    "bigstep25"))
+    "bigstep25"
+    "urbatpopl2026"))
  '(or :bibtex :latex))
 

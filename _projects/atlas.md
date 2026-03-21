@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-The aim of the ATLaS project is to work on various important aspects of [Higher-order Abstract GSOS](https://www.steliostsampas.com/projects/higher-order/). The project is funded by the Deutsche Forschungsgemeinschaft, the German Research Foundation, and will run from 01.2024 to 12.2026.
+The aim of the ATLaS project is to work on various important aspects of [Higher-order Abstract GSOS](https://www.steliostsampas.com/projects/higher-order/). The project is funded by the Deutsche Forschungsgemeinschaft, the German Research Foundation, and will run from 01.2024 to 12.2028.
 
  <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/dfg-funded.jpg"  width="40%" class="img-fluid rounded z-depth-1" %}
@@ -22,23 +22,28 @@ The aim of the ATLaS project is to work on various important aspects of [Higher-
 - Sergey Goncharov (**co-PI**)
 - Henning Urbat
 - Pouya Partow (**PhD student**)
-- Lutz Schröder
-- Stefan Milius
+- Stefano Volpe (**PhD student**)
 
-#### External collaborators
+#### Collaborators
 
-- Alessio Santamaria, University of Sussex
 - Lars Birkedal, Aarhus University
+- Robin Jourde, Savoie Mont Blanc University
+- Stefan Milius, FAU Erlangen-Nürnberg
+- Marco Peressotti, University of Southern Denmark
+- Alessio Santamaria, University of Sussex
+- Lutz Schröder, FAU Erlangen-Nürnberg
 - Amin Timany, Aarhus University
+
 
 ## Programme
 
 - Develop logical predicates in HO-GSOS ☑
 - Develop logical relations in HO-GSOS ☑
 - Apply our theory to develop new methods in call-by(-push)-value ☑
-- Big-step semantics for HO-GSOS ☐
-- Semantics for imperative languages ☐ (nearing completion)
-- Abstract approaches to parametricity ☐
+- Big-step semantics for HO-GSOS ☑
+- Semantics for imperative languages ☑
+- Denotational semantics ☐ (WIP)
+- Abstract approaches to parametricity ☐ (WIP)
 
 ## Publications
 

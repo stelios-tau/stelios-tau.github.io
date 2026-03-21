@@ -22,6 +22,7 @@ By far, the most crucial limitation of Abstract GSOS was its inability to model 
 
 ### Publications on HO-GSOS {#hopubs}
 
+- *Higher-Order Behavioural Conformances via Fibrations*, **POPL'26** {% cite urbatpopl2026 --file mainBiblio %}
 - *Bialgebraic Reasoning on Stateful Languages*, **ICFP'25** {% cite stateful25 %}
 - *Big Steps in Higher-Order Mathematical Operational Semantics*, **ICFP'25** {% cite bigstep25 %}
 - *Abstract Operational Methods for Call-by-Push-Value*, **POPL'25** {% cite gtu25 --file papers%}

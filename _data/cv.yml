@@ -23,6 +23,17 @@
       # description:
       #   -
 
+- title: Supervising
+  type: time_table
+  contents:
+    - title: Stefano Volpe
+      institution: University of Southern Denmark
+      year: 2025.09
+
+    - title: Pouya Partow
+      institution: FAU, University of Birmingham
+      year : 2024.01
+
 - title: Grants
   type: time_table
   contents:
@@ -55,7 +66,7 @@
     - name: PC Member
       value: CMCS'26, MFPS'25, PriSC'24, FCS'23, PriSC'23, FCS'22
     - name: Reviewer
-      value: POPL, FoSSaCS, CSL
+      value: POPL, FoSSaCS, CSL, LICS (various years)
 
 # - title: Projects
 #   type: time_table
