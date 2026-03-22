@@ -479,6 +479,7 @@
     "stateful25"
     "crdt25"
     "bigstep25"
-    "urbatpopl2026"))
+    "urbatpopl2026"
+    "jfp26"))
  '(or :bibtex :latex))
 

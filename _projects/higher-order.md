@@ -22,6 +22,7 @@ By far, the most crucial limitation of Abstract GSOS was its inability to model 
 
 ### Publications on HO-GSOS {#hopubs}
 
+- *Higher-Order Bialgebraic Semantics*, **J. Funct. Program.** {% cite jfp26 %}
 - *Higher-Order Behavioural Conformances via Fibrations*, **POPL'26** {% cite urbatpopl2026 --file mainBiblio %}
 - *Bialgebraic Reasoning on Stateful Languages*, **ICFP'25** {% cite stateful25 %}
 - *Big Steps in Higher-Order Mathematical Operational Semantics*, **ICFP'25** {% cite bigstep25 %}
@@ -33,7 +34,15 @@ By far, the most crucial limitation of Abstract GSOS was its inability to model 
 
 ## Project Outline
 
-Since the beginning of the HO-GSOS project in 2023 with its intruduction in Gocharov et al. {% cite gmstu23 %}, there has been important [progress](#hopubs) in a variety of fronts, such as implementing Logical Relations and Howe's method ({% cite gmtu24lics gmstu24 UrbatTsampasEtAl23%}). However, the vast majority of the work is ahead of us. We can divide this future work, and by extension the future of HO-GSOS, in four main categories:
+Since the beginning of the HO-GSOS project in 2023 with its intruduction in Gocharov et al. {% cite gmstu23 %}, there has been important [progress](#hopubs) in a variety of fronts, such as 
+
+- logical Relations and Howe's method {% cite gmtu24lics gmstu24 UrbatTsampasEtAl23%},
+- call-by-value and call-by-push-value {% cite gtu25 %},
+- stateful languages {% cite stateful25 %},
+- big-step semantics {% cite urbatpopl2026  bigstep25 --file mainBiblio %},
+- behavioral distances {% cite urbatpopl2026 --file mainBiblio %}.
+
+However, the vast majority of the work is ahead of us. We can divide this future work, and by extension the future of HO-GSOS, in four main categories:
 
 - Programming paradigms, i.e. supporting the various diverse *classes* of languages.
 - Reasoning methodologies, i.e. developing more methods to reason about program correctness.
