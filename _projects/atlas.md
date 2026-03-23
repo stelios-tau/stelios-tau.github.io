@@ -56,6 +56,9 @@ The aim of the ATLaS project is to work on various important aspects of [Higher-
 
 ## Talks
 
+- **Stefano Volpe**: *Locally Final Coalgebras in Denotational Semantics*
+<br> CMCS'26.
+  [Extended Abstract](/assets/pdf/locally-final-cmcs26.pdf).
 - **Henning Urbat**: *Abstract operational methods for call-by-push-value*
 <br>POPL'25, Denver, United States, January 2025.
 - **Sergey Goncharov**: *Introduction to Higher-Order Mathematical Operational Semantics*
