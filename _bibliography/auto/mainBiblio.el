@@ -480,6 +480,7 @@
     "crdt25"
     "bigstep25"
     "urbatpopl2026"
-    "jfp26"))
+    "jfp26"
+    "icfp26"))
  '(or :bibtex :latex))
 
