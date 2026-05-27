@@ -66,7 +66,7 @@
     - name: PC Member
       value: CMCS'26, MFPS'25, PriSC'24, FCS'23, PriSC'23, FCS'22
     - name: Reviewer
-      value: POPL, FoSSaCS, CSL, LICS (various years)
+      value: POPL, FoSSaCS, CSL, LICS, CONCUR (various years)
 
 # - title: Projects
 #   type: time_table
