@@ -64,7 +64,7 @@
   type: map
   contents:
     - name: PC Member
-      value: CMCS'26, MFPS'25, PriSC'24, FCS'23, PriSC'23, FCS'22
+      value: ICFP'27, CMCS'26, MFPS'25, PriSC'24, FCS'23, PriSC'23, FCS'22
     - name: Reviewer
       value: POPL, FoSSaCS, CSL, LICS (various years)
 
