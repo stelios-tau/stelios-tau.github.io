@@ -22,6 +22,7 @@ By far, the most crucial limitation of Abstract GSOS was its inability to model 
 
 ### Publications on HO-GSOS {#hopubs}
 
+- *Towards a Higher-Order Bialgebraic Denotational Semantics*, **ICFP'26** {% cite icfp26 %}
 - *Higher-Order Bialgebraic Semantics*, **J. Funct. Program.** {% cite jfp26 %}
 - *Higher-Order Behavioural Conformances via Fibrations*, **POPL'26** {% cite urbatpopl2026 --file mainBiblio %}
 - *Bialgebraic Reasoning on Stateful Languages*, **ICFP'25** {% cite stateful25 %}

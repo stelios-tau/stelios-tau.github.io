@@ -4,6 +4,8 @@
  "papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "icfp26"
+    "jfp26"
     "stateful25"
     "crdt25"
     "bigstep25"
@@ -17,7 +19,6 @@
     "DBLP:conf/cmcs/0001NDP20"
     "DBLP:conf/mfcs/0001WNDP21"
     "DBLP:conf/aplas/AbateBT21"
-    "DBLP:conf/fscd/0001MS0U22"
-    "jfp26"))
+    "DBLP:conf/fscd/0001MS0U22"))
  '(or :bibtex :latex))
 
